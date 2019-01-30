@@ -3,4 +3,5 @@ const takeANumber = (line, name) => {
   for (let i = 0, l = line.length; i < l ;  i++) {
   customers.push(`Welcome, ${name} You are number ${i} in line.`)
   }
+  return customers
 }
