@@ -1,3 +1,4 @@
 const takeANumber = (line, name) => {
-  line.push(`Welome, ${name}. You are number ` + line.length +  ` in line.` )
+  line.push(name);
+  return `Welcome, ${name}. You are number ` + line.length ` in line.`
 };
