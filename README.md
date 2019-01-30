@@ -1,4 +1,4 @@
-# Deli Counter Lab
+i I have a# Deli Counter Lab
 
 ## Objectives
 1. Add elements to an array
